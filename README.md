@@ -180,5 +180,3 @@ logger.debug("디버그 정보", data)
 - **Import 정렬**: React 우선, 서드파티, 로컬 순
 - **Tailwind 플러그인**: 자동 클래스 정렬
 - **설정**: 2 스페이스, 세미콜론 없음, 더블 쿼트
-# nextjs-boilerplate
-# nextjs-boilerplate
